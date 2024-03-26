@@ -1,5 +1,11 @@
+**CLI script vending machine.**
 
-1. **Команди:**
+Display a list of products and show their prices.
+Receives coins from the client with the selected denomination.
+Show the client the product and turn the bowl with coins as needed.
+Easily add new products without having to change the code to the machine.
+
+1. **Commands:**
 
     ```bash
     php vending_machine_command.php list  - лист продуктів
